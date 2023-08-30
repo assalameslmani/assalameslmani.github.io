@@ -706,17 +706,17 @@ margin-right:-30px
 
 /* Adjust .gallery for responsive layout */
 .gallery {
-    display: flex;
-    flex-wrap: nowrap;
+   
     overflow-x: scroll;
     padding: 10px 0;
     margin: 0 auto;
        margin-right:10px;
   }
-  
+  h3{
+      font-size:12px;}
   .card {
     width: 120px;
-    flex: 0 0 auto;
+   display:table;
     margin: 0 7px;
     transform: none;
     transition: transform 0.3s, box-shadow 0.3s;
