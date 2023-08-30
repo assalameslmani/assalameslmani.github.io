@@ -1,4 +1,4 @@
-const reviewForm = document.getElementById("reviewForm");
+/*const reviewForm = document.getElementById("reviewForm");
 const confirmationMessage = document.getElementById("confirmationMessage");
 const submittedComment = document.getElementById("submittedComment");
 const commentText = document.getElementById("commentText");
@@ -45,4 +45,4 @@ shareBtn.addEventListener("click", () => {
     card3.setAttribute("data-toggle3", true);
     card4.setAttribute("data-toggle4", true);
   }
-});
+});*/
